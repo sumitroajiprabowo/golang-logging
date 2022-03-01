@@ -1,0 +1,6 @@
+time="2022-02-25T01:57:59+07:00" level=info msg="Hello World"
+time="2022-02-25T01:57:59+07:00" level=warning msg="Hello World"
+time="2022-02-25T01:57:59+07:00" level=error msg="Hello World"
+time="2022-02-25T01:58:13+07:00" level=info msg="Hello World"
+time="2022-02-25T01:58:13+07:00" level=warning msg="Hello World"
+time="2022-02-25T01:58:13+07:00" level=error msg="Hello World"
